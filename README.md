@@ -1,31 +1,31 @@
-# _Ping-Pong_
+# Ping-Pong
 
-#### _Ping-Pong Replacement using BDD with JavaScript; January, 22 2016_
+#### By: Jared Beckler | Epicodus | January 2016
 
-#### By _**Jared Beckler**_
+This project is further exploration of HTML/CSS/JavaScript/jQuery and is used to create a site to take in a user number input and count up to it, replacing every number divisible by 3 with "Ping", every number divisable by 5 with "Pong" and every number divisable by 15 with "Ping-Pong".
 
-## Description
+## Installation
 
-_This webpage takes in a user inputted number and counts up to it while replacing every number divisible by 3 with "Ping", every number divisible 5 with "Pong", and every number divisible by 15 with "Ping-Pong"._
-
-## Setup/Installation Requirements
-
-_Visit my GitHub repository, (https://github.com/jaredbeckler/pingpong), clone, and enjoy._
+* `git clone https://github.com/jaredbeckler/pingpong` this repository
+* Change into the new directory
+* Drag `index.html` into a web browser to view the page
 
 ## Known Bugs
 
-_No currently known bugs._
+There are currently no known bugs.
 
 ## Support and contact details
 
-_Please contact me through GitHub with any questions or concerns. [GitHub](https://github.com/jaredbeckler)_
+If you have any issues, questions, ideas, or concerns contact me through GitHUb. If you would like to make a contribution to the code, feel free to do so and notify me by e-mail.
 
 ## Technologies Used
 
+* HTML
+* CSS
+* Bootstrap
 * JavaScript
 * jQuery
-* Bootstrap
 
 ### License
 
-Copyright (c) 2015 **_Jared Beckler_**
+Copyright &copy; 2016  |  Jared Beckler  |  Epicodus  |  Portland, OR
